@@ -9,9 +9,8 @@
 <br />
 
 
-<h3 align="left" style="margin: 8px 0"><b>Skills:</b></h3>
-
-<p align="center">
+<p align="center" style="font-weight: 100; padding: 16px 0 0;">Skills</p>
+<p align="center" style="padding: 0 128px;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="vim" width="30" height="30"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
