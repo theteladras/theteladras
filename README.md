@@ -1,7 +1,12 @@
 
 <a href="https://www.linkedin.com/in/sanel-had%C5%BEini/"><img src="./animated.svg"></a>
 
-<h3 align="left">Languages and Tools:</h3>
+<div>
+ <img src="./beograd.png" alt="beograd" height="120" />
+</div>
+
+
+<h3 align="left">Skills and interests:</h3>
 
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="vim" width="40" height="40"/>
