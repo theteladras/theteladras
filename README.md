@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/sanel-had%C5%BEini/"><img src="./animated.svg"></a>
 
 <div>
- <img src="./beograd.png" alt="beograd" height="120" />
+ <img src="./loading.gif" alt="beograd" height="120" />
 </div>
 
 
