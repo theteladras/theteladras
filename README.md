@@ -1,8 +1,10 @@
 
 <a href="https://www.linkedin.com/in/sanel-had%C5%BEini/"><img src="./animated.svg"></a>
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 16px;">
- <img src="./coding.gif" alt="" height="180" width="280" />
+<div style="width: 100%; display: flex; justify-content: center; align-items: center; margin: 16px;">
+ <p align="center">
+    <img src="./coding.gif" alt="" height="180" width="280" />
+ </p>
 </div>
 <br />
 
