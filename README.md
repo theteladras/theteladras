@@ -1,4 +1,6 @@
 
+<img src="./animated.svg">
+
 ### Hi there 👋
 
 <!--
