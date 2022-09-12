@@ -1,15 +1,15 @@
 
 <a href="https://www.linkedin.com/in/sanel-had%C5%BEini/"><img src="./animated.svg"></a>
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center; margin: 16px;">
+<div style="width: 100%; display: flex; justify-content: center; align-items: center; margin: 8px;">
  <p align="center">
-    <img src="./coding.gif" alt="" height="180" width="280" />
+    <img src="./rocket.gif" alt="" height="180" width="240" />
  </p>
 </div>
 <br />
 
 
-<p align="center" style="font-weight: 100; padding: 16px 0 0;">Skills</p>
+<p align="center" style="font-weight: 100; padding: 8px 0 0;"><i>Skills</i></p>
 <p align="center" style="padding: 0 128px;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="vim" width="30" height="30"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
