@@ -45,7 +45,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/>
  <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" alt="linux-github-profile-awesome-beautiful" width="30" height="30"/> 
  <img src="https://www.svgrepo.com/show/353715/ethereum.svg" alt="linux-github-profile-awesome-beautiful" width="30" height="30"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+ <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
 </p>
 <br/>
 
