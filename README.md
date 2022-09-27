@@ -9,7 +9,7 @@
 <br />
 
 
-<p align="center" style="font-weight: 100; padding: 8px 0 0;"><i>Skills</i></p>
+<p align="center" style="font-weight: 100; padding: 8px 0 0;"><i>Technologies and Tools:</i></p>
 <p align="center" style="padding: 0 128px;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="vim" width="30" height="30"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
